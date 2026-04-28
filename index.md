@@ -1,14 +1,15 @@
-# 欢迎来到我的 GitHub Pages！
+<!-- 这是一个自定义样式的容器 -->
+<div style="text-align: center; font-family: 'Helvetica', sans-serif; padding: 50px; background-color: #f0f2f5; border-radius: 10px;">
 
-这是一个通过 GitHub Actions 和 GitHub Pages 自动部署的练习项目。
+# 👋 欢迎来到我的主页
 
-## 关于我
-- **名字**：[sionjiu-cmd]
-- **目标**：学习如何使用 GitHub Pages 托管静态网站。
-- **状态**：网站已成功上线！
+<p style="font-size: 18px; color: #333;">
+这是一个通过 GitHub Pages 搭建的网站。
+</p>
 
-## 练习进度
-- [x] 创建仓库
-- [x] 启用 GitHub Pages
-- [ ] 自定义页面样式
-- [ ] 绑定自定义域名
+<!-- 这是一个按钮样式 -->
+<a href="https://github.com/sionlju-cmd" style="text-decoration: none; background-color: #24292e; color: white; padding: 10px 20px; border-radius: 5px; display: inline-block; margin-top: 20px;">
+访问我的 GitHub
+</a>
+
+</div>
