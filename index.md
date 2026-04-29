@@ -18,16 +18,6 @@ zhangqin👀
 
 
 
----
-layout: post
-title: "A GitHub Pages Post with TOC, Math, and Footnotes"
-date: 2024-01-01 12:00:00 +0800
-categories: blog
-tags: [template, math, toc, footnotes]
-toc: true
-toc_label: "Table of Contents"
-toc_icon: "list"
----
 
 ## Introduction
 
