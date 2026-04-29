@@ -15,3 +15,55 @@ zhangqin👀
 </a>
 
 </div>
+
+
+
+---
+layout: post
+title: "A GitHub Pages Post with TOC, Math, and Footnotes"
+date: 2024-01-01 12:00:00 +0800
+categories: blog
+tags: [template, math, toc, footnotes]
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "list"
+---
+
+## Introduction
+
+This post demonstrates a GitHub Pages–friendly Markdown template that includes:
+
+- A table of contents  
+- Math formulas (inline and block)  
+- Footnotes  
+- Clean structure for technical writing  
+
+If your Jekyll theme supports `toc: true` (e.g., *Minimal Mistakes*), the TOC will appear automatically.
+
+---
+
+## Math Examples
+
+Inline math example:  
+The famous equation \( E = mc^2 \) relates mass and energy.
+
+Block math example:
+
+\[
+\int_{0}^{\infty} x^2 e^{-x} \, dx = 2
+\]
+
+Another block:
+
+\[
+a^2 + b^2 = c^2
+\]
+
+---
+
+## Code Example
+
+```python
+def add(a, b):
+    return a + b
+
