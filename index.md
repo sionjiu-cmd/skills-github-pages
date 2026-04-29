@@ -3,7 +3,7 @@
 
 # 👋 欢迎来到我的主页(sionjiu-cmd)
 
-#张钦看向这里👀
+zhangqin👀
 
 <p style="font-size: 18px; color: #333;">
 这是一个通过 GitHub Pages 搭建的网站。
